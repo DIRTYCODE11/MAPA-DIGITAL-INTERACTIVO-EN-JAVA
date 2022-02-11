@@ -1,1 +1,1 @@
-# Aqui encontraras las imagenes usadas para el reame principal
+# Aqui encontraras las imagenes usadas para el readme principal
