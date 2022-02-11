@@ -1,7 +1,7 @@
 # MAPA-DIGITAL-INTERACTIVO-EN-JAVA
 * Compilacion: ``javac Mapa.java``
 * Ejecucion: ``java Mapa``
-* Video de instalacion: [Youtube](https://youtu.be/mpi98gClT3o)
+* <a href="https://youtu.be/mpi98gClT3o"><img src="https://img.shields.io/badge/-DirtyCode_-c4302b?style=flat&logo=Youtube&logoColor=white"/></a> 
 
 ### Para correrlo desde la terminal:
 ``cd src``
@@ -32,8 +32,7 @@ Material desarrollado con base en los conocimientos del equipo
   * José Valentin Zarate Carreño [Github]
   
 Redes:
-* GitHub: [DirtyCode11](https://github.com/DIRTYCODE11)
-* <a href="https://github.com/DIRTYCODE11"><img src="https://img.shields.io/badge/-DirtyCode11_-3b5998?style=flat&logo=Github&logoColor=white"/></a> 
+* <a href="https://github.com/DIRTYCODE11"><img src="https://img.shields.io/badge/-DirtyCode11_-171515?style=flat&logo=Github&logoColor=white"/></a> 
 * <a href="https://www.facebook.com/Dirty-Code-108423987446075"><img src="https://img.shields.io/badge/-DirtyCode_-3b5998?style=flat&logo=Facebook&logoColor=white"/></a> 
 * <a href="https://www.instagram.com/dirtycode_11"><img src="https://img.shields.io/badge/-@dirtycode_11_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-* Correo: [Gmail](ayudadirtycode@gmail.com)
+* <a href="https://github.com/DIRTYCODE11"><img src="https://img.shields.io/badge/-DirtyCode_-db4a39?style=flat&logo=Gmail&logoColor=white"/></a> 
