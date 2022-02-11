@@ -2,7 +2,8 @@
 * Compilacion: ``javac Mapa.java``
 * Ejecucion: ``java Mapa``
 * Ver video de instalacion: <a href="https://youtu.be/mpi98gClT3o"><img src="https://img.shields.io/badge/-DirtyCode_-c4302b?style=flat&logo=Youtube&logoColor=white"/></a> 
-
+* Elaborado en Netbeans IDE 8.1
+*
 ### Para correrlo desde la terminal:
 ``cd src``
 En la carpeta src esta la clase ``Mapa.java``
