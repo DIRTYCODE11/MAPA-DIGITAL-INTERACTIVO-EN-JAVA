@@ -1,9 +1,10 @@
 # MAPA-DIGITAL-INTERACTIVO-EN-JAVA
 * Compilacion: ``javac Mapa.java``
 * Ejecucion: ``java Mapa``
-* Ver video de instalacion: <a href="https://youtu.be/mpi98gClT3o"><img src="https://img.shields.io/badge/-DirtyCode_-c4302b?style=flat&logo=Youtube&logoColor=white"/></a> 
+* Ver video de instalacion (si solo deseas instalarlo como Ejecutable): <a href="https://youtu.be/mpi98gClT3o"><img src="https://img.shields.io/badge/-DirtyCode_-c4302b?style=flat&logo=Youtube&logoColor=white"/></a>
+* Si sigue el video de instalación es unicamente para sistemas operativos Windows
 * Elaborado en Netbeans IDE 8.1
-*
+
 ### Para correrlo desde la terminal:
 ``cd src``
 En la carpeta src esta la clase ``Mapa.java``
@@ -34,7 +35,7 @@ Material desarrollado con base en los conocimientos del equipo
   
 Redes:
 * <a href="https://github.com/DIRTYCODE11"><img src="https://img.shields.io/badge/-DirtyCode11_-171515?style=flat&logo=Github&logoColor=white"/></a> 
-* <a href="https://www.facebook.com/Dirty-Code-108423987446075"><img src="https://img.shields.io/badge/-DirtyCode_-3b5998?style=flat&logo=Facebook&logoColor=white"/></a> 
-* <a href="https://www.instagram.com/dirtycode_11"><img src="https://img.shields.io/badge/-@dirtycode_11_-3f729b?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-* <a href="https://ayudadirtycode@gmail.com"><img src="https://img.shields.io/badge/-ayudadirtycode@gmail.com_-db4a39?style=flat&logo=Gmail&logoColor=white"/></a> 
-* <a href="https://www.youtube.com/channel/UCq8gDpFoX9fv6MWinaEKCpw"><img src="https://img.shields.io/badge/-DirtyCode_-c4302b?style=flat&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.facebook.com/Dirty-Code-108423987446075"><img src="https://img.shields.io/badge/-DirtyCode_-3b5998?style=flat&logo=Facebook&logoColor=white"/></a> 
+<a href="https://www.instagram.com/dirtycode_11"><img src="https://img.shields.io/badge/-@dirtycode_11_-E1306C?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://ayudadirtycode@gmail.com"><img src="https://img.shields.io/badge/-ayudadirtycode@gmail.com_-db4a39?style=flat&logo=Gmail&logoColor=white"/></a> 
+<a href="https://www.youtube.com/channel/UCq8gDpFoX9fv6MWinaEKCpw"><img src="https://img.shields.io/badge/-DirtyCode_-c4302b?style=flat&logo=Youtube&logoColor=white"/></a>
