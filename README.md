@@ -26,7 +26,8 @@ ventana para acceder a una galeria donde existen fotografias sobre cada estado.
 ![Image text](https://github.com/DIRTYCODE11/MAPA-DIGITAL-INTERACTIVO-EN-JAVA/blob/master/images/ejemplo-galeria.png)
 
 Material desarrollado con base en los conocimientos del equipo 
-## Este proyecto es de uso gratuitos siempre y cuando su uso sea con el mismo fin, Aceptamos colaboraciones y mejoras.
+## Este proyecto es de uso gratuitos siempre y cuando su uso sea con el mismo fin
+Aceptamos colaboraciones y mejoras. (De preferencia notificarlo en alguna de nuestras redes sociales si hacen algún fork)
 
 ## Autores del proyecto: 
   * Francisco Emmanuel Martinez Castellanos [Github](https://github.com/Emmanuel1102)
