@@ -1,13 +1,10 @@
-# MAPA-DIGITAL-INTERACTIVO-EN-JAVA
+# MAPA-DIGITAL-INTERACTIVO-EN-JAVA 
+* Version 1.0 Desplegado en 2020
 * Compilacion: ``javac Mapa.java``
 * Ejecucion: ``java Mapa``
 * Ver video de instalacion (si solo deseas instalarlo como Ejecutable): <a href="https://youtu.be/mpi98gClT3o"><img src="https://img.shields.io/badge/-DirtyCode_-c4302b?style=flat&logo=Youtube&logoColor=white"/></a>
 * Si sigue el video de instalación es unicamente para sistemas operativos Windows
 * Elaborado en Netbeans IDE 8.1
-
-### Para correrlo desde la terminal:
-``cd src``
-En la carpeta src esta la clase ``Mapa.java``
 
 Es un mapa Didactico hecho con Java EE 8 que cumple con el proposito de mostrar de una manera didactica a niñ@s de primaria
 los estados de la republica mexicana, en primera instancia nos mostrará la interfaz principal donde se encuentra el mapa y 
@@ -24,6 +21,14 @@ ventana para acceder a una galeria donde existen fotografias sobre cada estado.
 ![Image text](https://github.com/DIRTYCODE11/MAPA-DIGITAL-INTERACTIVO-EN-JAVA/blob/master/images/ejemplo-estado.png)
 ### Interfaz de Galeria
 ![Image text](https://github.com/DIRTYCODE11/MAPA-DIGITAL-INTERACTIVO-EN-JAVA/blob/master/images/ejemplo-galeria.png)
+
+### Para correrlo desde la terminal:
+``cd src``
+En la carpeta src esta la clase ``Mapa.java``
+Adicionalmente dentro del archivo existira una carpeta llamada:  donde vendran los audios wav para ser reproducidos 
+deberan copiarla y pegarla en el disco local C para no tener mucho problema 
+(Igual si encuentras una mejor forma de reacondicionarlo sería de ayuda).
+
 
 Material desarrollado con base en los conocimientos del equipo 
 ## Este proyecto es de uso gratuitos siempre y cuando su uso sea con el mismo fin
