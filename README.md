@@ -34,5 +34,6 @@ Material desarrollado con base en los conocimientos del equipo
 Redes:
 * GitHub: [DirtyCode11](https://github.com/DIRTYCODE11)
 * Facebook: [DirtyCode](https://www.facebook.com/Dirty-Code-108423987446075)
-* <a href="https://www.instagram.com/dirtycode_11"><img src="https://img.shields.io/badge/-@alexis7595_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+* * <a href="https://www.instagram.com/dirtycode_11"><img src="https://img.shields.io/badge/-@dirtycode_11_-E4405F?style=flat&logo=Facebook&logoColor=white"/></a> &nbsp;
+* <a href="https://www.instagram.com/dirtycode_11"><img src="https://img.shields.io/badge/-@dirtycode_11_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 * Correo: [Gmail](ayudadirtycode@gmail.com)
