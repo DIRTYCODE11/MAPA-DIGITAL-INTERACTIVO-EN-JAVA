@@ -12,16 +12,16 @@ los estados de la republica mexicana, en primera instancia nos mostrará la inte
 adicionalmente podemos reproducir el himno nacional del pais.
 
 ### Interfaz Principal:
-![Image text](https://github.com/DIRTYCODE11/MAPA-DIGITAL-INTERACTIVO-EN-JAVA/blob/master/images/mapa%20oficial.png=200x100)
+![Image text](https://github.com/DIRTYCODE11/MAPA-DIGITAL-INTERACTIVO-EN-JAVA/blob/master/images/mapa%20oficial.png)
 
 ### Interfaz por estado
 * Para acceder a la interfaz estado 
 Es necesario hacer clic en alguno de los estados que deseemos y nos mostrara una ventana donde se encontrarán información
 relevante sobre cada uno de ellos, asi como su himmno de cada estado además podemos desplazarnos por las pestañas de la
 ventana para acceder a una galeria donde existen fotografias sobre cada estado.
-![Image text](https://github.com/DIRTYCODE11/MAPA-DIGITAL-INTERACTIVO-EN-JAVA/blob/master/images/ejemplo-estado.png=200x100)
+![Image text](https://github.com/DIRTYCODE11/MAPA-DIGITAL-INTERACTIVO-EN-JAVA/blob/master/images/ejemplo-estado.png)
 ### Interfaz de Galeria
-![Image text](https://github.com/DIRTYCODE11/MAPA-DIGITAL-INTERACTIVO-EN-JAVA/blob/master/images/ejemplo-galeria.png=200x100)
+![Image text](https://github.com/DIRTYCODE11/MAPA-DIGITAL-INTERACTIVO-EN-JAVA/blob/master/images/ejemplo-galeria.png)
 
 Material desarrollado con base en los conocimientos del equipo 
 ## Este proyecto es de uso gratuitos siempre y cuando su uso sea con el mismo fin, Aceptamos colaboraciones y mejoras.
