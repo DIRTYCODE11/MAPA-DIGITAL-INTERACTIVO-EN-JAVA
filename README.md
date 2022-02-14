@@ -25,7 +25,7 @@ ventana para acceder a una galeria donde existen fotografias sobre cada estado.
 ### Para correrlo desde la terminal:
 ``cd src``
 En la carpeta src esta la clase ``Mapa.java``
-Adicionalmente dentro del archivo existira una carpeta llamada:  donde vendran los audios wav para ser reproducidos 
+Adicionalmente dentro del archivo existira una carpeta llamada: ``Mapa Audio`` donde vendran los audios wav para ser reproducidos 
 deberan copiarla y pegarla en el disco local C para no tener mucho problema 
 (Igual si encuentras una mejor forma de reacondicionarlo sería de ayuda).
 
