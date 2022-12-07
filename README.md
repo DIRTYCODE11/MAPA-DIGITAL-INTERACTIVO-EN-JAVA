@@ -1,8 +1,8 @@
 # MAPA-DIGITAL-INTERACTIVO-EN-JAVA 
-* Version 1.0 Desplegado en 2020
+* Versión 1.0 Desplegado en 2020
 * Compilacion: ``javac Mapa.java``
-* Ejecucion: ``java Mapa``
-* Ver video de instalacion (si solo deseas instalarlo como Ejecutable): <a href="https://youtu.be/mpi98gClT3o"><img src="https://img.shields.io/badge/-DirtyCode_-c4302b?style=flat&logo=Youtube&logoColor=white"/></a>
+* Ejecución: ``java Mapa``
+* Ver video de instalación (si solo deseas instalarlo como Ejecutable): <a href="https://youtu.be/mpi98gClT3o"><img src="https://img.shields.io/badge/-DirtyCode_-c4302b?style=flat&logo=Youtube&logoColor=white"/></a>
 * Si sigue el video de instalación es unicamente para sistemas operativos Windows
 * Elaborado en Netbeans IDE 8.1
 
@@ -38,7 +38,7 @@ Aceptamos colaboraciones y mejoras. (De preferencia notificarlo en alguna de nue
   * Francisco Emmanuel Martinez Castellanos [Github](https://github.com/Emmanuel1102)
   * Oscar Alexis Ramirez Hernandez [Github](https://github.com/AlexisRamirezHernandez)
   * José Valentin Zarate Carreño [Github](https://github.com/JoseVale99)
-  
+  * Raúl Acevedo Flores [Github](https://github.com/RaulAcevedoF)
 Redes:
 * <a href="https://github.com/DIRTYCODE11"><img src="https://img.shields.io/badge/-DirtyCode11_-171515?style=flat&logo=Github&logoColor=white"/></a> 
 <a href="https://www.facebook.com/Dirty-Code-108423987446075"><img src="https://img.shields.io/badge/-DirtyCode_-3b5998?style=flat&logo=Facebook&logoColor=white"/></a> 
